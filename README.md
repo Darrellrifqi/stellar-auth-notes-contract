@@ -1,0 +1,1 @@
+# stellar-auth-notes-contract
