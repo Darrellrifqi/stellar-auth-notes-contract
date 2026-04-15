@@ -32,7 +32,7 @@ Berbeda dengan aplikasi catatan blockchain standar, proyek ini telah dimodifikas
 
 ## 🛠️ Detail Teknis & Deploy
 
-- **Contract ID**: `CBLU4IUASQ4WUMOXBFLZRSBBLILGOH33GS4LUPKFBCCCMJCDQNMF7G2M`
+- **Contract ID**: `CDW3F5LW6WWZMYW7GFQI6Z2AOVSUMULVY5YFSJNWDY4YALKZI4WDMI2Q`
 - **Compiler**: Rust (WASM target)
 - **SDK**: Soroban SDK v20.x
 
